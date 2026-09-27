@@ -1,0 +1,63 @@
+.container {
+    position: relative;
+    background-color: black;
+    margin: 0%;
+    height: 100%;
+
+}
+.suh{
+     margin-left: 25px;
+    position: relative;
+    bottom: 150px;
+    left: 125PX;
+}
+#so{
+    color: white;
+    background-color: red;
+    width: 80px;
+    position: relative;
+    right: 20px;
+}
+.one{position:absolute;
+    top: 30%;
+    right: 3%;
+    z-index: +1;    
+}
+.P::shadow
+
+
+.img {
+    margin: ;
+    border-radius: 20px;
+}
+
+.logo {
+    position: absolute;
+    bottom: 20;
+}
+
+.meni-con {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    background-color: blue;
+    height: 500px;
+    width: 900px;
+}
+
+.img-small {}
+
+.img {
+    position: absolute;
+
+    bottom: 30%;
+    right: 20%;
+
+}
+
+.logo {
+    position: absolute;
+    top: 61.2%;
+    right: 32.5%;
+
+}
